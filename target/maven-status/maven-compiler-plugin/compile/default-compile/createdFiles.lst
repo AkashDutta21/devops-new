@@ -1,0 +1,3 @@
+com\example\devopsnew\DevopsNewApplication.class
+com\example\devopsnew\ServletInitializer.class
+com\example\devopsnew\web\WelcomeController.class
